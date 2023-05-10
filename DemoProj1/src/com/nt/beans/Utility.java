@@ -12,9 +12,9 @@ public class Utility
 	{
 		System.out.println("Utility m1 method Hi");
 	}
-	public void m2()
+	public void m4()
 	{
-		System.out.println("Hi");
+		System.out.println("bhvhgv");
 	}
 	
 }
